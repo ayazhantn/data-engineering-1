@@ -211,19 +211,7 @@ From the bar chart, we can see the differences in sales volumes across different
 - Summer has a moderate order volume, lower than both Autumn and Winter but higher than Spring season. This reflects consumer demand in summertime, which might be affected by holidays, travelling, trips.
 - Spring has the lowest order volume and the difference from other seasons is significant. This shows lower consumer demand.
 
-2. Conclusions
-- Winter and Autumn: These two seasons have higher order volumes, likely due to holiday sales, seasonal promotions, and demand fluctuations. These seasons represent critical sales periods for businesses, and large-scale promotions should be planned in advance.
-- Spring Sales Slump: Spring has a significantly lower order volume, which may be attributed to the lack of major holidays or promotional events. This season may require businesses to adopt strategies to boost sales.
-
-3. Strategies to Boost Spring Sales
-To increase sales during the spring season, businesses can consider the following strategies:
-- Seasonal Promotions: Offer discounts or promotional activities for spring products to attract consumers. For example, a “Spring Clearance” sale could encourage consumers to purchase seasonal products.
-- Cross-Season Bundling: Bundle spring products with popular items from other seasons to boost sales. For example, pairing spring clothing with winter products can help drive sales.
-- Marketing Campaigns: Spring marketing campaigns may need more targeted efforts. Promotions can be tailored to specific consumer groups via social media, email marketing, and other channels to raise awareness and interest in spring products.
-- Limited-Time Promotions: Introduce limited-time offers during specific dates or holidays (e.g., Easter) in spring to encourage consumer purchases.
-
-4. Overall Trends and Recommendations
-Overall, businesses should focus on the Autumn and Winter seasons as key sales periods, where heavier promotion efforts can capture consumer spending. For Spring, innovative promotional tactics and strategies are needed to spark consumer interest and prevent low sales from affecting overall business performance.
+Critical seasons for businesses, namely Autumn and Winter should probably be planned in advance, while lower orders in Spring and Summer seasons might require sellers to adopt strategies to boost sales. Among the ways of improving the sales performances there are seasonal promotions, marketing campaigns depending on seasonal differences. However, in order to identify more efficient pathways to increase order volumes, additional analytics can be carried out: checking if the seasonal differences persist over the years (2016, 2017 and 2018), finding out which product categories contribute to orders numbers more in specific seasons and seeing if seasonal differences are nationwide or vary geographically in different Brazilian regions.
 
 
 Q3. Which categories perform best and worst nationwide?
@@ -235,6 +223,7 @@ From the chart on product categories:
 
 Best-performing categories: bed_bath_table, health_beauty, and sports_leisure have the highest total number of orders.
 This suggests that nationwide consumer preferences are skewed towards household, health, and leisure products.
+
 Worst-performing categories include security_and_services, fashion_child_clothes and CDs_DVDs_musicals. These categories can be considered as points of growth by using promotions or improvement of supplied products variety.
 
 
