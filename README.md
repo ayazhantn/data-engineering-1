@@ -166,7 +166,7 @@ Data Import and Joining, Enrichment
 - JSON to Table: Converts data in JSON format into structured tabular data for making the analysis easier.
 - GeoFile Reader: Reads geojson file of Brazil's states for further visualization. Geospatial Analytics extension was installed.
 - Joiner: Combines two data tables based on specified matching columns.
-- String Manipulation, POST Request and JSON Path nodes were used for enriching data with API. 
+- String Manipulation, POST Request and JSON Path nodes were used for enriching data with Google Cloud NL API. 
 
 Data Transformation and Cleaning
 
@@ -195,7 +195,7 @@ Q1. How does the delivery performance (on-time vs. delayed) affect customer sent
 
 ![Q1Chart](Term2/visuals/Q1Chart.jpeg)
 
-The bar chart for delivery performance shows that "On-Time" deliveries have higher sentiment scores compared to "Delayed" deliveries. This is indication of the on-time deliveries' positive impact on customer satisfaction. Therefore, sellers might want to avoid delays which mostly negatively affect the reviews they get. 
+"review_comment_messages" column is used for sentiment analysis of the customer's comments on orders. Google Cloud Natural Language API is used for sentiment scoring ranging from -1.0 (negative) to 1.0 (positive). The bar chart for delivery performance shows that "On-Time" deliveries have higher sentiment scores compared to "Delayed" deliveries. This is indication of the on-time deliveries' positive impact on customer satisfaction. Therefore, sellers might want to avoid delays which mostly negatively affect the reviews they get. 
 
 Q2. Is there a clear seasonal trend in order volume? How to promote off-season sales?
 
