@@ -29,6 +29,7 @@ The repository is organized as follows:
 
 **`data-engineering-1/`**
 - **`Term2/`**: Main project folder.
+  - **`Knime_TermProject/`**: Contains all pipelines and required files to reproduce the project. 
   - **`data/`**: Contains CSV files with raw data.
     - `olist_customers_dataset.csv`: Data related to clients.
     - `olist_geolocation_dataset.csv`: Data related to geolocation.
@@ -37,7 +38,7 @@ The repository is organized as follows:
     - `olist_order_reviews_dataset.csv`: Data related to reviews on orders.
     - `olist_orders_dataset.csv`: Data related to orders.
     - `olist_products_dataset.csv`: Data related to products.
-    - `olist_sellers_dataset.csv`: Data related to sellers on the ecommerce platform.
+    - `olist_sellers_dataset.csv`: Data related to sellers on the e-commerce platform.
     - `product_category_name_translation.csv`: English translations of product categories.
   - **`script/`**: Contains Python code and Knime workflow used in the project.
     - `mongo.ipynb`: Python script for importing data.
