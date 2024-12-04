@@ -42,7 +42,6 @@ The repository is organized as follows:
     - `product_category_name_translation.csv`: English translations of product categories.
   - **`script/`**: Contains Python code and Knime workflow used in the project.
     - `mongo.ipynb`: Python script for importing data.
-    - `term-project-2.knwf`: Knime workflow file.
   - **`EER.jpeg`**: EER.
   - **`Knime_workflow.jpeg`**: ETL Pipeline in Knime.
   - **`visuals/`**: Contains visualisations answering Research Questions.
