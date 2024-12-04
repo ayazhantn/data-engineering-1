@@ -12,7 +12,7 @@ Project Title: Brazilian E-Commerce Public Dataset Analysis
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ayazhantn/de1-Term2
+   git clone https://github.com/ayazhantn/data-engineering-1
 
  # Table of Contents
 1. [Repository Structure](#repository-structure)
