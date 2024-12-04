@@ -26,7 +26,8 @@ Project Title: Brazilian E-Commerce Public Dataset Analysis
 # Repository Structure
 
 The repository is organized as follows:
-/data-engineering-1
+
+**`data-engineering-1/`**
 - **`Term2/`**: Main project folder.
   - **`data/`**: Contains CSV files with raw data.
     - `olist_customers_dataset.csv`: Data related to clients.
