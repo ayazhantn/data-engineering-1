@@ -160,20 +160,15 @@ product_category_name_translation.csv table contains translations of product cat
 # ETL Pipeline Design
 The ETL pipeline involves different steps:
 
-Data Import and Joining
+Data Import and Joining, Enrichment
 
 - MongoDB Reader: Reads data from the MongoDB database, allowing us to retrieve information from the various collections.
 - JSON to Table: Converts data in JSON format into structured tabular data for making the analysis easier.
-
+- GeoFile Reader, Joiner and JSON Path nodes were used for matching columns and enriching data with API, JSON files. Geospatial Analytics extension was an additional tool.
 
 Data Transformation and Cleaning
 
 - Different filtering, manipulation, grouping, sampling, sorting and difference calculation (e.g. Date&Time Difference) nodes were used depending on the Research Question analysis demand.
-
-
-Data Joining and Enrichment
-
-- Joiner, GeoFile Reader and JSON Path nodes were used for matching columns and enriching data with API, JSON files. Geospatial Analytics extension was an additional tool.
 
 
 Analysis and Visualization
