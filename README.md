@@ -176,7 +176,8 @@ Data Transformation and Cleaning
 Analysis and Visualization
 
 - Bar Chart (JavaScript), Rule Engine, Geospatial View were used to visualize trends and geographic patterns in the data and apply logical rules for categorization. As a result, clear representations of trends and research question answers are obtained.
-  
+
+![Knime_workflow](Term2/Knime_workflow.jpeg)
 
 # Research Questions
 Q1. How does the delivery performance (on-time vs. delayed) affect customer sentiment in Brazilian e-commerce?
