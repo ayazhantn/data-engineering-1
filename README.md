@@ -195,6 +195,7 @@ Q1. How does the delivery performance (on-time vs. delayed) affect customer sent
 
 ![Q1Chart](Term2/visuals/Q1Chart.jpeg)
 
+The bar chart for delivery performance shows that "On-Time" deliveries have higher sentiment scores compared to "Delayed" deliveries. This is indication of the on-time deliveries' positive impact on customer satisfaction. Therefore, sellers might want to avoid delays which mostly negatively affect the reviews they get. 
 
 Q2. Is there a clear seasonal trend in order volume? How to promote off-season sales?
 
@@ -227,10 +228,19 @@ Q3. Which categories perform best and worst nationwide?
 ![Q3ChartA](Term2/visuals/Q3ChartA.jpeg)
 ![Q3ChartB](Term2/visuals/Q3ChartB.jpeg)
 
+From the chart on product categories:
+
+Best-performing categories: bed_bath_table, health_beauty, and sports_leisure have the highest total number of orders.
+This suggests that nationwide consumer preferences are skewed towards household, health, and leisure products.
+
 
 Q4. Are there noticeable regional differences in the delivery periods?
 
 ![Q4Chart](Term2/visuals/Q4Chart.jpeg)
+
+The map highlights regional differences in delivery times:
+
+Northern regions (e.g., Amazonas) have the longest delivery periods (colored in red shades). Southern and Southeastern regions (e.g., São Paulo and Rio de Janeiro) demonstrate faster delivery times (colored in blue shades). Thus, regional disparities in delivery periods might signify logistical challenges. Infrastructure and distance from distribution centers might be the reasons of longer delivery in more remote northern areas. As a result, this information might be used for improving business processes.
 
 
 # Conclusion and Future Work
