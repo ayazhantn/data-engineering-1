@@ -165,7 +165,7 @@ Data Import and Joining, Enrichment
 - MongoDB Reader: Reads data from the MongoDB database, allowing us to retrieve information from the various collections.
 - JSON to Table: Converts data in JSON format into structured tabular data for making the analysis easier.
 - GeoFile Reader: Reads geojson file of Brazil's states for further visualization. Geospatial Analytics extension was installed.
-- Joiner: Combines two data tables based on specified matching columns
+- Joiner: Combines two data tables based on specified matching columns.
 - String Manipulation, POST Request and JSON Path nodes were used for enriching data with API. 
 
 Data Transformation and Cleaning
