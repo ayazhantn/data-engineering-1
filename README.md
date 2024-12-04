@@ -170,7 +170,11 @@ Data Import and Joining, Enrichment
 
 Data Transformation and Cleaning
 
-- Different filtering, manipulation, grouping, sampling, sorting and difference calculation (e.g. Date&Time Difference) nodes were used depending on the Research Question analysis demand.
+- Filtering, manipulation, grouping, sampling, sorting and difference calculation (e.g. Date&Time Difference) nodes were used depending on the Research Question analysis demand.
+- Question 1: after keeping observations only with comments of customers on orders, the dataset included approximately 41,000 observations. A representative sample of 3,134 observations was obtained using a 98% confidence level and a 2% margin of error. A representative sample was used to save time and resourses in account of Google Cloud NL API.
+- Question 2: duplicates were removed, date columns were formatted, and orders were aggregated by seasons based on months which helped to find seasonal differences.
+- Question 3: after data transformation and cleaning, product categories were analyzed. Through sorting and sampling 10 most and 10 least popular categories were identified.
+- Question 4: delivery times (days) were calculated by comparing order and delivery dates, and joined with geospatial data to examine trends. Geospatial Analytics extension was used for reading geo json files and visualization of maps.
 
 
 Analysis and Visualization
