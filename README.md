@@ -206,12 +206,11 @@ Q2. Is there a clear seasonal trend in order volume? How to promote off-season s
 
 ![Q2Chart](Term2/visuals/Q2Chart.jpeg)
 
-1. Analysis of Seasonal Order Trends
-From the bar chart, we can clearly see the differences in order quantities across different seasons：
-- Winter has the highest order volume, nearing 30,573 orders, indicating very strong market demand during this season. This is likely due to holiday promotions (e.g., Christmas and New Year sales), where consumers tend to make more purchases.
-- Autumn follows closely, with relatively high order numbers, likely driven by autumn promotions and seasonal product demand.
-- Summer has a moderate order volume, lower than both autumn and winter but higher than spring. This suggests stable consumer demand during summer, possibly influenced by holidays and leisure travel seasons.
-- Spring has the lowest order volume, significantly lower than the other three seasons. This may reflect weaker market demand during spring, possibly due to the absence of major holidays or promotional events, resulting in lower consumer purchasing intent.
+From the bar chart, we can see the differences in sales volumes across different seasons：
+- Winter has the highest order volume. This might be due to holiday season's higher demand (e.g., Christmas or New Year).
+- Autumn follows closely to Winter.
+- Summer has a moderate order volume, lower than both Autumn and Winter but higher than Spring season. This reflects consumer demand in summertime, which might be affected by holidays, travelling, trips.
+- Spring has the lowest order volume and the difference from other seasons is significant. This shows lower consumer demand.
 
 2. Conclusions
 - Winter and Autumn: These two seasons have higher order volumes, likely due to holiday sales, seasonal promotions, and demand fluctuations. These seasons represent critical sales periods for businesses, and large-scale promotions should be planned in advance.
@@ -237,6 +236,7 @@ From the chart on product categories:
 
 Best-performing categories: bed_bath_table, health_beauty, and sports_leisure have the highest total number of orders.
 This suggests that nationwide consumer preferences are skewed towards household, health, and leisure products.
+Worst-performing categories include security_and_services, fashion_child_clothes and CDs_DVDs_musicals. These categories can be considered as points of growth by using promotions or improvement of supplied products variety.
 
 
 Q4. Are there noticeable regional differences in the delivery periods?
