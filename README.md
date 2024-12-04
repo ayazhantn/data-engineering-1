@@ -166,7 +166,7 @@ Data Import and Joining, Enrichment
 - JSON to Table: Converts data in JSON format into structured tabular data for making the analysis easier.
 - GeoFile Reader: Reads geojson file of Brazil's states for further visualization. Geospatial Analytics extension was installed.
 - Joiner: Combines two data tables based on specified matching columns
-- String Manipulation, POST Request and JSON Path nodes were used for matching columns and enriching data with API. 
+- String Manipulation, POST Request and JSON Path nodes were used for enriching data with API. 
 
 Data Transformation and Cleaning
 
