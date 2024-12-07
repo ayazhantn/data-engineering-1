@@ -217,7 +217,34 @@ Critical seasons for businesses, namely Autumn and Winter should probably be pla
 Q3. Which categories perform best and worst nationwide?
 
 ![Q3ChartA](Term2/visuals/Q3ChartA.jpeg)
+
+10 most popular product categories (starting from the most popular):
+
+1. bed_bath_table
+2. health_beauty
+3. sports_leisure
+4. computers_accessories
+5. furniture_decor
+6. housewares
+7. watches_gifts
+8. telephony
+9. auto
+10. toys
+
 ![Q3ChartB](Term2/visuals/Q3ChartB.jpeg)
+
+10 least popular product categories (starting from the least popular):
+
+1. security_and_services
+2. fashion_childrens_clothes
+3. cds_dvds_musicals
+4. la_cuisine
+5. arts_and_craftmanship
+6. home_comfort_2
+7. fashion_sport
+8. diapers_and_hygiene
+9. flowers
+10. music
 
 From the chart on product categories:
 
